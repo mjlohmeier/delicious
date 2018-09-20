@@ -8,8 +8,8 @@ ReactDOM.render(<Router />, document.getElementById('root'));
 registerServiceWorker();
 
 
-////HERE'S SOME NOTES THIS IS WHAT IT SHOULD LOOK LIKE KIND OF:
-////
+//HERE'S SOME NOTES THIS IS WHAT IT SHOULD LOOK LIKE KIND OF:
+
 //import { createStore } from 'redux';
 //import { Provider } from 'react-redux';
 //
