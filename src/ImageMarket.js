@@ -15,7 +15,7 @@ class ImageMarket extends React.Component {
       return (
           <div>
               <p>Hey, it's a webpage! This could be tasty...</p>
-              {arrayofimages.map(imageurl => <img src={imageurl} className="foodimages"/>)}
+              {arrayofimages.map(imageurl => <img src={imageurl} className="foodimages" alt="Food."/>)}
           </div>
       );
     }

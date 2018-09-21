@@ -6,7 +6,7 @@ class VideoMarket extends React.Component {
       return (
           <div>
               <p>Hey, it's a webpage! This could be tasty...</p>
-              <a href="https://www.youtube.com/watch?v=tJKAQggSs9Q" target="_blank">Raw (YouTube)</a>
+              <a href="https://www.youtube.com/watch?v=tJKAQggSs9Q" target="_blank" rel="noopener noreferrer">Raw (YouTube) </a>
           </div>
       );
     }
